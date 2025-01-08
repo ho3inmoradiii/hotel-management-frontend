@@ -21,7 +21,7 @@ A Nuxt 3 application for managing hotel operations with TypeScript and Vuetify.
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/ho3inmoradiii/hotel-management-frontend.git
 cd hotel-management-frontend
 ```
 
